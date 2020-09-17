@@ -2,7 +2,7 @@
 ## init project
 
 [website](https://start.spring.io/)
-![init-project](./init-project.png)
+![init-project](Init-project.png)
 
 ## postgresql docker
 ```shell script
